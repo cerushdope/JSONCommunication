@@ -1,0 +1,9 @@
+.user {
+  background-color: grey;
+  padding: 0.2%;
+  margin: 0.5% 0;
+}
+
+.user ul {
+  list-style: none;
+}
